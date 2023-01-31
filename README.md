@@ -58,7 +58,7 @@ main = do
     -- Output: 1.5213799476623535
 ```
 
-Na main, usamos _print_ para imprimir o resultado da funções _bisect_ chamada com a função _f_ e um intervalo de _(0, 100)_ e uma precisão de _1e-6_. Isso imprimirá a aproximação para a raíz da função _f_.
+Na main, usamos _print_ para imprimir o resultado da funções _bisect_ chamada com a função _f_ e um intervalo de _(0, 2)_ e uma precisão de _1e-6_. Isso imprimirá a aproximação para a raíz da função _f_.
 
 ---
 
